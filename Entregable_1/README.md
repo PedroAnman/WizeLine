@@ -17,3 +17,5 @@ Entregable 1
 se adjunta archivo "Dockerfile"
 
 *Archivo de Docker Compose que permita levantar el contendor
+
+se adjunta archivo "docker-compose.yml"
