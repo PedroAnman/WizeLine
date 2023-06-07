@@ -15,3 +15,5 @@ Entregable 1
 *Dockerfile ejecutable
 
 se adjunta archivo "Dockerfile"
+
+*Archivo de Docker Compose que permita levantar el contendor
