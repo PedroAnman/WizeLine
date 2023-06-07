@@ -14,8 +14,29 @@ Entregable 1
 
 *Dockerfile ejecutable
 
-se adjunta archivo "Dockerfile"
+Se adjunta archivo "Dockerfile"
 
 *Archivo de Docker Compose que permita levantar el contendor
 
-se adjunta archivo "docker-compose.yml"
+Se adjunta archivo "docker-compose.yml"
+
+*Pod de Kubernetes desplegando el contenedor
+
+<img width="388" alt="Captura de Pantalla 2023-06-07 a la(s) 16 22 25" src="https://github.com/PedroAnman/WizeLine/assets/61468851/d0c91b49-951f-43e7-8866-86747ac4d5a5">
+
+*Tópicos replicados de Kafka
+
+*Impresiones de pantalla de la Función Lambda creada en la cuenta que permita la ejecución del código y REST Endpoint (o GraphQL Endpoint) de la API Gateway asociada a la función Lambda
+<img width="1423" alt="Captura de Pantalla 2023-06-07 a la(s) 16 34 56" src="https://github.com/PedroAnman/WizeLine/assets/61468851/c96b748d-1eab-49b9-987a-fa34d9670ad8">
+<img width="1438" alt="Captura de Pantalla 2023-06-07 a la(s) 16 35 23" src="https://github.com/PedroAnman/WizeLine/assets/61468851/7110e338-c7cc-42aa-97bc-25da4e850bbd">
+<img width="1254" alt="Captura de Pantalla 2023-06-07 a la(s) 16 36 05" src="https://github.com/PedroAnman/WizeLine/assets/61468851/39e05e5a-e9b3-4f18-a361-98501977fa04">
+
+*Captura de pantalla de logs en Cloudwatch
+<img width="1180" alt="Captura de Pantalla 2023-06-07 a la(s) 16 38 21" src="https://github.com/PedroAnman/WizeLine/assets/61468851/ba71b4b3-c82d-4e9b-9908-ca02c336f20c">
+
+*Base de datos de MongoDB exportada
+<img width="1095" alt="Captura de Pantalla 2023-06-07 a la(s) 16 50 07" src="https://github.com/PedroAnman/WizeLine/assets/61468851/192286a7-c7fd-4a45-baf6-4f3f5ffe62ee">
+
+*Captura de pantalla de la base de datos replicada
+<img width="1141" alt="Captura de Pantalla 2023-06-07 a la(s) 17 31 46" src="https://github.com/PedroAnman/WizeLine/assets/61468851/432d9a92-601c-409b-b3be-6497347d0ea8">
+
