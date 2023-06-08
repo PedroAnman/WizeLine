@@ -25,6 +25,7 @@ Se adjunta archivo "docker-compose.yml"
 <img width="388" alt="Captura de Pantalla 2023-06-07 a la(s) 16 22 25" src="https://github.com/PedroAnman/WizeLine/assets/61468851/d0c91b49-951f-43e7-8866-86747ac4d5a5">
 
 *Tópicos replicados de Kafka
+<img width="852" alt="Captura de Pantalla 2023-06-08 a la(s) 16 10 59" src="https://github.com/PedroAnman/WizeLine/assets/61468851/f07ef604-71d7-4dc3-8ffd-22dfff29ee60">
 
 *Impresiones de pantalla de la Función Lambda creada en la cuenta que permita la ejecución del código y REST Endpoint (o GraphQL Endpoint) de la API Gateway asociada a la función Lambda
 <img width="1423" alt="Captura de Pantalla 2023-06-07 a la(s) 16 34 56" src="https://github.com/PedroAnman/WizeLine/assets/61468851/c96b748d-1eab-49b9-987a-fa34d9670ad8">
