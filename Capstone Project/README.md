@@ -27,7 +27,8 @@ Se utiliza GraphQL
 
 *Pruebas unitarias del lado de FE	10
 
--
+<img width="518" alt="Captura de Pantalla 2023-07-03 a la(s) 11 38 32" src="https://github.com/PedroAnman/WizeLine/assets/61468851/0aa5bc92-edfa-4593-8a97-f7c8447312db">
+
 
 
 *La aplicación FE debe contar con los menos con dos rutas e.g (home, videos, about-us)	10
